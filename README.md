@@ -4,12 +4,11 @@
 
 ## About Me
 
-- 🌱 I’m currently learning Full Stack Development
-- 💼 I'm a Software Developer at [Your Company]
+- 💼 I'm a Senior Software Developer at MARCDATA 
 - 🔭 I’m working on various projects related to web development and data science
 - 💬 Ask me about Python, JavaScript, and Machine Learning
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: I love hiking and playing chess
+- 📫 How to reach me: [azfar@marc.com.my]
+- ⚡ Fun fact: I love cats
 
 ## Skills
 
@@ -33,18 +32,13 @@
 
 ## Projects
 
-### [Project 1 Name](https://github.com/AzfarAzmanMARC/project1)
-A brief description of Project 1, highlighting key features and technologies used.
+### [MARCDATA-REPORTING-SYSTEM](https://github.com/marc-data-tech/user-app-next)
+Recently adopted this website with the whole solution , this is what marc data website looks like
 
-### [Project 2 Name](https://github.com/AzfarAzmanMARC/project2)
-A brief description of Project 2, highlighting key features and technologies used.
+### [AI-ENGINE](https://github.com/marc-data-tech/marcdata-ai-engine)
+Integration and Aggregrator of A.I that exist, we use it for Marcdata
 
 ## GitHub Stats
 
-![AzfarAzman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzfarAzmanMARC&show_icons=true&theme=dark)
+![AzfarAzman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabpot&show_icons=true&theme=dark%20last%20year?)
 
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/your-twitter/)
-[![Personal Website](https://img.shields.io/badge/-Personal%20Website-333333?style=flat&logo=google-chrome)](https://yourwebsite.com)
