@@ -40,5 +40,5 @@ Integration and Aggregrator of A.I that exist, we use it for Marcdata
 
 ## GitHub Stats
 
-![AzfarAzman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabpot&show_icons=true&theme=dark%20last%20year?)
+![AzfarAzman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=twinzdragonz&show_icons=true&theme=dark%20last%20year?)
 
