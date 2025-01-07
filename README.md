@@ -5,8 +5,8 @@
 ## About Me
 
 - 💼 I'm a Senior Software Developer at MARCDATA 
-- 🔭 I’m working on various projects related to web development and data science
-- 💬 Ask me about Python, JavaScript, and Machine Learning
+- 🔭 I’m working on various projects related to web development and alot more
+- 💬 Ask me about Python, PHP, JavaScript, and Machine Learning
 - 📫 How to reach me: [azfar@marc.com.my]
 - ⚡ Fun fact: I love cats
 
